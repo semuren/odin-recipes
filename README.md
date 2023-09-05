@@ -1,3 +1,3 @@
 # odin-recipes
 
-Receipe page project for The Odin Project
+Receipe page for The Odin Project
